@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b18800099f1d43bd9c4a0ef8a5879db, type: 3}
+  m_Name: Pattern_Tinus_ZRight
+  m_EditorClassIdentifier: 
+  enemyPrefab: {fileID: 1628183950575334, guid: 9338f4830356f4cfe9ddbf46b572e957,
+    type: 2}
+  pathPrefab: {fileID: 1806372277166708, guid: 48f3088d4004544c58cf76140b7877ed, type: 2}
+  timeBetweenSpawns: 0.8
+  numberOfEnemies: 6
+  moveSpeed: 6
+  timeBetweenWaves: 0.75

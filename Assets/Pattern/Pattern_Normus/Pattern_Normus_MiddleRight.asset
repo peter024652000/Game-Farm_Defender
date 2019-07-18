@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b18800099f1d43bd9c4a0ef8a5879db, type: 3}
+  m_Name: Pattern_Normus_MiddleRight
+  m_EditorClassIdentifier: 
+  enemyPrefab: {fileID: 1613864370647274, guid: 50b07e39e98f54c9a810a62044dd8cbb,
+    type: 2}
+  pathPrefab: {fileID: 1797166543655076, guid: 8d7093d2e2098451fabb83af5f5799fb, type: 2}
+  timeBetweenSpawns: 1
+  numberOfEnemies: 4
+  moveSpeed: 2.5
+  timeBetweenWaves: 0.4

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb83afc33cc1a4033aaec19407a2877e, type: 3}
+  m_Name: Wave1
+  m_EditorClassIdentifier: 
+  patternConfigs:
+  - {fileID: 11400000, guid: 808f8bee4420a4112b0cdcd0598dca66, type: 2}
+  - {fileID: 11400000, guid: 68d7f809a2f1444e0bc089c0c6661480, type: 2}
+  - {fileID: 11400000, guid: 3b4edd2be86184cee976fced765606fd, type: 2}
+  - {fileID: 11400000, guid: f21173fabb11d4122a630e4645ee73b6, type: 2}
+  - {fileID: 11400000, guid: 3b4edd2be86184cee976fced765606fd, type: 2}
+  - {fileID: 11400000, guid: 68d7f809a2f1444e0bc089c0c6661480, type: 2}
+  normusNum: 24
+  tinusNum: 0
+  spikusNum: 0
+  splitusNum: 0
+  startingPattern: 0
+  looping: 1

@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{FD4A65F0-183F-9B01-6FDD-D96D34E458E6}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/WaveIndicator.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Player.cs" Line="164" Column="59" />
+      <File FileName="Assets/Scripts/Enemy.cs" Line="111" Column="45" />
+      <File FileName="Assets/Scripts/DamageDealer.cs" Line="16" Column="112" />
+      <File FileName="Assets/Scripts/EnemyPathing.cs" Line="29" Column="19" />
+      <File FileName="Assets/Scripts/WaveConfig.cs" Line="28" Column="1" />
+      <File FileName="Assets/Scripts/WaveManager.cs" Line="37" Column="166" />
+      <File FileName="Assets/Scripts/EnemyNumIndicator.cs" Line="57" Column="26" />
+      <File FileName="Assets/Scripts/WaveIndicator.cs" Line="41" Column="47" />
+      <File FileName="Assets/Scripts/PatternConfig.cs" Line="9" Column="40" />
+      <File FileName="Assets/Scripts/BulletShredder.cs" Line="29" Column="10" />
+      <File FileName="Assets/Scripts/BackgroundScroller.cs" Line="18" Column="18" />
+      <File FileName="Assets/Scripts/LifeIndicator.cs" Line="20" Column="20" />
+      <File FileName="Assets/Scripts/ButtonIndicator.cs" Line="56" Column="39" />
+      <File FileName="Assets/Scripts/Ghost.cs" Line="37" Column="11" />
+      <File FileName="Assets/Scripts/SceneLoader.cs" Line="26" Column="28" />
+      <File FileName="Assets/Scripts/WindowManager.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
